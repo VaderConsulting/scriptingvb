@@ -1,0 +1,27 @@
+# Build output
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Secrets / credentials (never upload)
+*.pfx
+*.p12
+*.pem
+*.key
+.env
+
+# VS upgrade leftovers
+Backup/
+_UpgradeReport_Files/
+UpgradeLog.*
+
+# Logs and temp
+*.log
+*.tmp
+*.bak
