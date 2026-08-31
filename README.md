@@ -1,6 +1,6 @@
 # scriptingvb
 
-VB.NET WinForms host that compiles VB or C# scripts at runtime against plugin interfaces. The Host WinExe uses CodeDom (`VBCodeProvider` / `CSharpCodeProvider`) to compile an `IScript` plugin in memory, then calls `Method1`–`Method4` from the main form. `Interfaces` is a class library that defines `IScript` and `IHost`. Open `Scripting/Scripting.sln` in Visual Studio.
+VB.NET WinForms host that compiles VB or C# scripts at runtime against plugin interfaces. The Host WinExe uses CodeDom (`VBCodeProvider` / `CSharpCodeProvider`) to compile an `IScript` plugin in memory, then calls `Method1`-`Method4` from the main form. `Interfaces` is a class library that defines `IScript` and `IHost`. Open `Scripting/Scripting.sln` in Visual Studio.
 
 **Source last updated:** 2008-10-02  
 **Language:** VB.NET  
