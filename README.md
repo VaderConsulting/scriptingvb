@@ -22,6 +22,10 @@ This is Dave Robinson’s VB.NET sample: a WinForms host that compiles VB or C# 
 
 Open `Scripting/Scripting.sln` in Visual Studio.
 
+## Requirements
+
+- Visual Studio 2005
+
 ## Attribution and provenance
 
 - **Author:** Dave Robinson / VaderConsulting
