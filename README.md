@@ -28,6 +28,8 @@ Open `Scripting/Scripting.sln` in Visual Studio.
 
 ## Attribution and provenance
 
+Working copy from my Historical Dev folder.
+
 - **Author:** Dave Robinson / VaderConsulting
 - Technique comment in `Scripting/Host/Scripting.vb` points to <http://www.divil.co.uk/net/articles/plugins/scripting.asp> (Tim McCurdy / Divil). This repository is Dave’s sample, not a dump of third-party source.
 
